@@ -5,24 +5,24 @@
 # DOH Money — Terminal App
 
 <!-- RELEASE-START -->
-[![Latest Release](https://img.shields.io/badge/release-v0.1.5-FFD700?style=for-the-badge&logo=github&labelColor=0c0c0f)](https://github.com/dohmoney/releases/releases/tag/v0.1.5)
-[![Downloads](https://img.shields.io/github/downloads/dohmoney/app-releases/total?style=for-the-badge&color=32CD32&labelColor=0c0c0f)](https://github.com/dohmoney/releases/releases)
+[![Latest Release](https://img.shields.io/badge/release-v0.1.7-FFD700?style=for-the-badge&logo=github&labelColor=0c0c0f)](https://github.com/dohmoney/releases/releases/tag/v0.1.7)
+[![Downloads](https://img.shields.io/github/downloads/dohmoney/releases/total?style=for-the-badge&color=32CD32&labelColor=0c0c0f)](https://github.com/dohmoney/releases/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-A8A8B3?style=for-the-badge&labelColor=0c0c0f)](https://app.doh.money/downloads)
 
-## ⬇️ Download DOH Money v0.1.5
+## ⬇️ Download DOH Money v0.1.7
 
-> Released 2026-04-29 · [Full changelog](https://github.com/dohmoney/Decentralized_Open_Hub/commits/main)
+> Released 2026-05-06 · [Full changelog](https://github.com/dohmoney/Decentralized_Open_Hub/commits/main)
 
 | Platform | Format | Size | Link |
 |----------|--------|------|------|
-| 🍎 macOS Apple Silicon (M1–M4) | ZIP | 545 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5-arm64-mac.zip) |
-| 🍎 macOS Apple Silicon (M1–M4) | DMG | 348 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5-arm64.dmg) |
-| 🍎 macOS Intel (x86_64) | ZIP | 560 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5-mac.zip) |
-| 🍎 macOS Intel (x86_64) | DMG | 353 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5.dmg) |
-| 🪟 Windows 10/11 x64 | EXE Installer | 270 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money%20Setup%200.1.5.exe) |
-| 🪟 Windows 10/11 x64 | ZIP | 362 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5-win.zip) |
-| 🐧 Linux x64 | AppImage | 358 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/DOH%20Money-0.1.5.AppImage) |
-| 🐧 Linux x64 (Ubuntu/Debian) | DEB | 263 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.5/doh_prod_0.1.5_amd64.deb) |
+| 🍎 macOS Apple Silicon (M1–M4) | ZIP | 339 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7-arm64-mac.zip) |
+| 🍎 macOS Apple Silicon (M1–M4) | DMG | 351 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7-arm64.dmg) |
+| 🍎 macOS Intel (x86_64) | ZIP | 344 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7-mac.zip) |
+| 🍎 macOS Intel (x86_64) | DMG | 356 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7.dmg) |
+| 🪟 Windows 10/11 x64 | EXE Installer | 275 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money%20Setup%200.1.7.exe) |
+| 🪟 Windows 10/11 x64 | ZIP | 365 MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7-win.zip) |
+| 🐧 Linux x64 | AppImage | ? MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/DOH%20Money-0.1.7.AppImage) |
+| 🐧 Linux x64 (Ubuntu/Debian) | DEB | ? MB | [Download](https://github.com/dohmoney/releases/releases/download/v0.1.7/doh_prod_0.1.7_amd64.deb) |
 
 **🌐 Web app:** [app.doh.money](https://app.doh.money) · **📦 All releases:** [app-releases](https://github.com/dohmoney/releases/releases)
 
